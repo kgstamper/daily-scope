@@ -41,7 +41,7 @@ class Zodiac:
         "libra",
         "scorpio",
         "sagittarius",
-        "capricornus",
+        "capricorn",
         "aquarius",
         "pisces"
     ]
